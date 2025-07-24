@@ -1,0 +1,635 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u0130rem Demircio\u011Flu\\Desktop\\sistem analizi ve tasar\u0131m\u0131 proje teslim\\proje\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\\u0130rem Demircio\u011Flu\\Source\\Repos\\proje\\proje\\Form7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F68CBA37-274C-4849-AAD8-BECAA3DB5D50}|proje\\proje.csproj|c:\\users\\\u0130rem demircio\u011Flu\\desktop\\sistem analizi ve tasar\u0131m\u0131 proje teslim\\proje\\proje\\form11.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F68CBA37-274C-4849-AAD8-BECAA3DB5D50}|proje\\proje.csproj|solutionrelative:proje\\form11.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F68CBA37-274C-4849-AAD8-BECAA3DB5D50}|proje\\proje.csproj|C:\\Users\\\u0130rem Demircio\u011Flu\\Desktop\\sistem analizi ve tasar\u0131m\u0131 proje teslim\\proje\\proje\\form11.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F68CBA37-274C-4849-AAD8-BECAA3DB5D50}|proje\\proje.csproj|solutionrelative:proje\\form11.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F68CBA37-274C-4849-AAD8-BECAA3DB5D50}|proje\\proje.csproj|C:\\Users\\\u0130rem Demircio\u011Flu\\Desktop\\sistem analizi ve tasar\u0131m\u0131 proje teslim\\proje\\proje\\form7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F68CBA37-274C-4849-AAD8-BECAA3DB5D50}|proje\\proje.csproj|solutionrelative:proje\\form7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F68CBA37-274C-4849-AAD8-BECAA3DB5D50}|proje\\proje.csproj|C:\\Users\\\u0130rem Demircio\u011Flu\\Desktop\\sistem analizi ve tasar\u0131m\u0131 proje teslim\\proje\\proje\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F68CBA37-274C-4849-AAD8-BECAA3DB5D50}|proje\\proje.csproj|solutionrelative:proje\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F68CBA37-274C-4849-AAD8-BECAA3DB5D50}|proje\\proje.csproj|C:\\Users\\\u0130rem Demircio\u011Flu\\Desktop\\sistem analizi ve tasar\u0131m\u0131 proje teslim\\proje\\proje\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F68CBA37-274C-4849-AAD8-BECAA3DB5D50}|proje\\proje.csproj|solutionrelative:proje\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F68CBA37-274C-4849-AAD8-BECAA3DB5D50}|proje\\proje.csproj|C:\\Users\\\u0130rem Demircio\u011Flu\\Desktop\\sistem analizi ve tasar\u0131m\u0131 proje teslim\\proje\\proje\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F68CBA37-274C-4849-AAD8-BECAA3DB5D50}|proje\\proje.csproj|solutionrelative:proje\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F68CBA37-274C-4849-AAD8-BECAA3DB5D50}|proje\\proje.csproj|C:\\Users\\\u0130rem Demircio\u011Flu\\Desktop\\sistem analizi ve tasar\u0131m\u0131 proje teslim\\proje\\proje\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F68CBA37-274C-4849-AAD8-BECAA3DB5D50}|proje\\proje.csproj|solutionrelative:proje\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F68CBA37-274C-4849-AAD8-BECAA3DB5D50}|proje\\proje.csproj|C:\\Users\\\u0130rem Demircio\u011Flu\\Desktop\\sistem analizi ve tasar\u0131m\u0131 proje teslim\\proje\\proje\\form9.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F68CBA37-274C-4849-AAD8-BECAA3DB5D50}|proje\\proje.csproj|solutionrelative:proje\\form9.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F68CBA37-274C-4849-AAD8-BECAA3DB5D50}|proje\\proje.csproj|C:\\Users\\\u0130rem Demircio\u011Flu\\Desktop\\sistem analizi ve tasar\u0131m\u0131 proje teslim\\proje\\proje\\form9.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F68CBA37-274C-4849-AAD8-BECAA3DB5D50}|proje\\proje.csproj|solutionrelative:proje\\form9.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F68CBA37-274C-4849-AAD8-BECAA3DB5D50}|proje\\proje.csproj|C:\\Users\\\u0130rem Demircio\u011Flu\\Desktop\\sistem analizi ve tasar\u0131m\u0131 proje teslim\\proje\\proje\\form10.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F68CBA37-274C-4849-AAD8-BECAA3DB5D50}|proje\\proje.csproj|solutionrelative:proje\\form10.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F68CBA37-274C-4849-AAD8-BECAA3DB5D50}|proje\\proje.csproj|C:\\Users\\\u0130rem Demircio\u011Flu\\Desktop\\sistem analizi ve tasar\u0131m\u0131 proje teslim\\proje\\proje\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F68CBA37-274C-4849-AAD8-BECAA3DB5D50}|proje\\proje.csproj|solutionrelative:proje\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F68CBA37-274C-4849-AAD8-BECAA3DB5D50}|proje\\proje.csproj|C:\\Users\\\u0130rem Demircio\u011Flu\\Desktop\\sistem analizi ve tasar\u0131m\u0131 proje teslim\\proje\\proje\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F68CBA37-274C-4849-AAD8-BECAA3DB5D50}|proje\\proje.csproj|solutionrelative:proje\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F68CBA37-274C-4849-AAD8-BECAA3DB5D50}|proje\\proje.csproj|C:\\Users\\\u0130rem Demircio\u011Flu\\Desktop\\sistem analizi ve tasar\u0131m\u0131 proje teslim\\proje\\proje\\form8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F68CBA37-274C-4849-AAD8-BECAA3DB5D50}|proje\\proje.csproj|solutionrelative:proje\\form8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F68CBA37-274C-4849-AAD8-BECAA3DB5D50}|proje\\proje.csproj|C:\\Users\\\u0130rem Demircio\u011Flu\\Desktop\\sistem analizi ve tasar\u0131m\u0131 proje teslim\\proje\\proje\\form7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F68CBA37-274C-4849-AAD8-BECAA3DB5D50}|proje\\proje.csproj|solutionrelative:proje\\form7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F68CBA37-274C-4849-AAD8-BECAA3DB5D50}|proje\\proje.csproj|C:\\Users\\\u0130rem Demircio\u011Flu\\Desktop\\sistem analizi ve tasar\u0131m\u0131 proje teslim\\proje\\proje\\form21.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F68CBA37-274C-4849-AAD8-BECAA3DB5D50}|proje\\proje.csproj|solutionrelative:proje\\form21.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F68CBA37-274C-4849-AAD8-BECAA3DB5D50}|proje\\proje.csproj|C:\\Users\\\u0130rem Demircio\u011Flu\\Desktop\\sistem analizi ve tasar\u0131m\u0131 proje teslim\\proje\\proje\\form21.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F68CBA37-274C-4849-AAD8-BECAA3DB5D50}|proje\\proje.csproj|solutionrelative:proje\\form21.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F68CBA37-274C-4849-AAD8-BECAA3DB5D50}|proje\\proje.csproj|C:\\Users\\\u0130rem Demircio\u011Flu\\Desktop\\sistem analizi ve tasar\u0131m\u0131 proje teslim\\proje\\proje\\form8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F68CBA37-274C-4849-AAD8-BECAA3DB5D50}|proje\\proje.csproj|solutionrelative:proje\\form8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F68CBA37-274C-4849-AAD8-BECAA3DB5D50}|proje\\proje.csproj|C:\\Users\\\u0130rem Demircio\u011Flu\\Desktop\\sistem analizi ve tasar\u0131m\u0131 proje teslim\\proje\\proje\\form15.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F68CBA37-274C-4849-AAD8-BECAA3DB5D50}|proje\\proje.csproj|solutionrelative:proje\\form15.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F68CBA37-274C-4849-AAD8-BECAA3DB5D50}|proje\\proje.csproj|C:\\Users\\\u0130rem Demircio\u011Flu\\Desktop\\sistem analizi ve tasar\u0131m\u0131 proje teslim\\proje\\proje\\form17.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F68CBA37-274C-4849-AAD8-BECAA3DB5D50}|proje\\proje.csproj|solutionrelative:proje\\form17.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F68CBA37-274C-4849-AAD8-BECAA3DB5D50}|proje\\proje.csproj|C:\\Users\\\u0130rem Demircio\u011Flu\\Desktop\\sistem analizi ve tasar\u0131m\u0131 proje teslim\\proje\\proje\\form17.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F68CBA37-274C-4849-AAD8-BECAA3DB5D50}|proje\\proje.csproj|solutionrelative:proje\\form17.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F68CBA37-274C-4849-AAD8-BECAA3DB5D50}|proje\\proje.csproj|C:\\Users\\\u0130rem Demircio\u011Flu\\Desktop\\sistem analizi ve tasar\u0131m\u0131 proje teslim\\proje\\proje\\form19.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F68CBA37-274C-4849-AAD8-BECAA3DB5D50}|proje\\proje.csproj|solutionrelative:proje\\form19.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F68CBA37-274C-4849-AAD8-BECAA3DB5D50}|proje\\proje.csproj|C:\\Users\\\u0130rem Demircio\u011Flu\\Desktop\\sistem analizi ve tasar\u0131m\u0131 proje teslim\\proje\\proje\\form19.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F68CBA37-274C-4849-AAD8-BECAA3DB5D50}|proje\\proje.csproj|solutionrelative:proje\\form19.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F68CBA37-274C-4849-AAD8-BECAA3DB5D50}|proje\\proje.csproj|C:\\Users\\\u0130rem Demircio\u011Flu\\Desktop\\sistem analizi ve tasar\u0131m\u0131 proje teslim\\proje\\proje\\form20.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F68CBA37-274C-4849-AAD8-BECAA3DB5D50}|proje\\proje.csproj|solutionrelative:proje\\form20.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F68CBA37-274C-4849-AAD8-BECAA3DB5D50}|proje\\proje.csproj|C:\\Users\\\u0130rem Demircio\u011Flu\\Desktop\\sistem analizi ve tasar\u0131m\u0131 proje teslim\\proje\\proje\\form20.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F68CBA37-274C-4849-AAD8-BECAA3DB5D50}|proje\\proje.csproj|solutionrelative:proje\\form20.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F68CBA37-274C-4849-AAD8-BECAA3DB5D50}|proje\\proje.csproj|C:\\Users\\\u0130rem Demircio\u011Flu\\Desktop\\sistem analizi ve tasar\u0131m\u0131 proje teslim\\proje\\proje\\form10.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F68CBA37-274C-4849-AAD8-BECAA3DB5D50}|proje\\proje.csproj|solutionrelative:proje\\form10.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F68CBA37-274C-4849-AAD8-BECAA3DB5D50}|proje\\proje.csproj|C:\\Users\\\u0130rem Demircio\u011Flu\\Desktop\\sistem analizi ve tasar\u0131m\u0131 proje teslim\\proje\\proje\\form15.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F68CBA37-274C-4849-AAD8-BECAA3DB5D50}|proje\\proje.csproj|solutionrelative:proje\\form15.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F68CBA37-274C-4849-AAD8-BECAA3DB5D50}|proje\\proje.csproj|C:\\Users\\\u0130rem Demircio\u011Flu\\Desktop\\sistem analizi ve tasar\u0131m\u0131 proje teslim\\proje\\proje\\form16.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F68CBA37-274C-4849-AAD8-BECAA3DB5D50}|proje\\proje.csproj|solutionrelative:proje\\form16.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F68CBA37-274C-4849-AAD8-BECAA3DB5D50}|proje\\proje.csproj|C:\\Users\\\u0130rem Demircio\u011Flu\\Desktop\\sistem analizi ve tasar\u0131m\u0131 proje teslim\\proje\\proje\\form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F68CBA37-274C-4849-AAD8-BECAA3DB5D50}|proje\\proje.csproj|solutionrelative:proje\\form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F68CBA37-274C-4849-AAD8-BECAA3DB5D50}|proje\\proje.csproj|C:\\Users\\\u0130rem Demircio\u011Flu\\Desktop\\sistem analizi ve tasar\u0131m\u0131 proje teslim\\proje\\proje\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F68CBA37-274C-4849-AAD8-BECAA3DB5D50}|proje\\proje.csproj|solutionrelative:proje\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F68CBA37-274C-4849-AAD8-BECAA3DB5D50}|proje\\proje.csproj|C:\\Users\\\u0130rem Demircio\u011Flu\\Desktop\\sistem analizi ve tasar\u0131m\u0131 proje teslim\\proje\\proje\\form14.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F68CBA37-274C-4849-AAD8-BECAA3DB5D50}|proje\\proje.csproj|solutionrelative:proje\\form14.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F68CBA37-274C-4849-AAD8-BECAA3DB5D50}|proje\\proje.csproj|C:\\Users\\\u0130rem Demircio\u011Flu\\Desktop\\sistem analizi ve tasar\u0131m\u0131 proje teslim\\proje\\proje\\form13.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F68CBA37-274C-4849-AAD8-BECAA3DB5D50}|proje\\proje.csproj|solutionrelative:proje\\form13.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F68CBA37-274C-4849-AAD8-BECAA3DB5D50}|proje\\proje.csproj|C:\\Users\\\u0130rem Demircio\u011Flu\\Desktop\\sistem analizi ve tasar\u0131m\u0131 proje teslim\\proje\\proje\\form12.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F68CBA37-274C-4849-AAD8-BECAA3DB5D50}|proje\\proje.csproj|solutionrelative:proje\\form12.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F68CBA37-274C-4849-AAD8-BECAA3DB5D50}|proje\\proje.csproj|C:\\Users\\\u0130rem Demircio\u011Flu\\Desktop\\sistem analizi ve tasar\u0131m\u0131 proje teslim\\proje\\proje\\form16.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F68CBA37-274C-4849-AAD8-BECAA3DB5D50}|proje\\proje.csproj|solutionrelative:proje\\form16.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F68CBA37-274C-4849-AAD8-BECAA3DB5D50}|proje\\proje.csproj|C:\\Users\\\u0130rem Demircio\u011Flu\\Desktop\\sistem analizi ve tasar\u0131m\u0131 proje teslim\\proje\\proje\\form14.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F68CBA37-274C-4849-AAD8-BECAA3DB5D50}|proje\\proje.csproj|solutionrelative:proje\\form14.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F68CBA37-274C-4849-AAD8-BECAA3DB5D50}|proje\\proje.csproj|C:\\Users\\\u0130rem Demircio\u011Flu\\Desktop\\sistem analizi ve tasar\u0131m\u0131 proje teslim\\proje\\proje\\form13.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F68CBA37-274C-4849-AAD8-BECAA3DB5D50}|proje\\proje.csproj|solutionrelative:proje\\form13.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F68CBA37-274C-4849-AAD8-BECAA3DB5D50}|proje\\proje.csproj|C:\\Users\\\u0130rem Demircio\u011Flu\\Desktop\\sistem analizi ve tasar\u0131m\u0131 proje teslim\\proje\\proje\\form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F68CBA37-274C-4849-AAD8-BECAA3DB5D50}|proje\\proje.csproj|solutionrelative:proje\\form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F68CBA37-274C-4849-AAD8-BECAA3DB5D50}|proje\\proje.csproj|C:\\Users\\\u0130rem Demircio\u011Flu\\Desktop\\sistem analizi ve tasar\u0131m\u0131 proje teslim\\proje\\proje\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F68CBA37-274C-4849-AAD8-BECAA3DB5D50}|proje\\proje.csproj|solutionrelative:proje\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F68CBA37-274C-4849-AAD8-BECAA3DB5D50}|proje\\proje.csproj|C:\\Users\\\u0130rem Demircio\u011Flu\\Desktop\\sistem analizi ve tasar\u0131m\u0131 proje teslim\\proje\\proje\\form12.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F68CBA37-274C-4849-AAD8-BECAA3DB5D50}|proje\\proje.csproj|solutionrelative:proje\\form12.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Form15.cs",
+              "DocumentMoniker": "C:\\Users\\\u0130rem Demircio\u011Flu\\Desktop\\sistem analizi ve tasar\u0131m\u0131 proje teslim\\proje\\proje\\Form15.cs",
+              "RelativeDocumentMoniker": "proje\\Form15.cs",
+              "ToolTip": "C:\\Users\\\u0130rem Demircio\u011Flu\\Desktop\\sistem analizi ve tasar\u0131m\u0131 proje teslim\\proje\\proje\\Form15.cs",
+              "RelativeToolTip": "proje\\Form15.cs",
+              "ViewState": "AgIAAIkAAAAAAAAAAAAnwJYAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T17:32:04.551Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form9.cs",
+              "DocumentMoniker": "C:\\Users\\\u0130rem Demircio\u011Flu\\Desktop\\sistem analizi ve tasar\u0131m\u0131 proje teslim\\proje\\proje\\Form9.cs",
+              "RelativeDocumentMoniker": "proje\\Form9.cs",
+              "ToolTip": "C:\\Users\\\u0130rem Demircio\u011Flu\\Desktop\\sistem analizi ve tasar\u0131m\u0131 proje teslim\\proje\\proje\\Form9.cs",
+              "RelativeToolTip": "proje\\Form9.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAwCYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T18:00:23.045Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Form16.cs",
+              "DocumentMoniker": "C:\\Users\\\u0130rem Demircio\u011Flu\\Desktop\\sistem analizi ve tasar\u0131m\u0131 proje teslim\\proje\\proje\\Form16.cs",
+              "RelativeDocumentMoniker": "proje\\Form16.cs",
+              "ToolTip": "C:\\Users\\\u0130rem Demircio\u011Flu\\Desktop\\sistem analizi ve tasar\u0131m\u0131 proje teslim\\proje\\proje\\Form16.cs",
+              "RelativeToolTip": "proje\\Form16.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwBEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T19:33:40.806Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Form20.cs",
+              "DocumentMoniker": "C:\\Users\\\u0130rem Demircio\u011Flu\\Desktop\\sistem analizi ve tasar\u0131m\u0131 proje teslim\\proje\\proje\\Form20.cs",
+              "RelativeDocumentMoniker": "proje\\Form20.cs",
+              "ToolTip": "C:\\Users\\\u0130rem Demircio\u011Flu\\Desktop\\sistem analizi ve tasar\u0131m\u0131 proje teslim\\proje\\proje\\Form20.cs",
+              "RelativeToolTip": "proje\\Form20.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAIwEYAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T23:14:05.309Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form7.cs",
+              "DocumentMoniker": "C:\\Users\\\u0130rem Demircio\u011Flu\\Source\\Repos\\proje\\proje\\Form7.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Source\\Repos\\proje\\proje\\Form7.cs",
+              "ToolTip": "C:\\Users\\\u0130rem Demircio\u011Flu\\Source\\Repos\\proje\\proje\\Form7.cs",
+              "RelativeToolTip": "..\\..\\..\\Source\\Repos\\proje\\proje\\Form7.cs",
+              "ViewState": "AgIAALIAAAAAAAAAAAArwMwAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T14:25:16.484Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form11.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\\u0130rem Demircio\u011Flu\\Desktop\\sistem analizi ve tasar\u0131m\u0131 proje teslim\\proje\\proje\\Form11.cs",
+              "RelativeDocumentMoniker": "proje\\Form11.cs",
+              "ToolTip": "C:\\Users\\\u0130rem Demircio\u011Flu\\Desktop\\sistem analizi ve tasar\u0131m\u0131 proje teslim\\proje\\proje\\Form11.cs [Design]",
+              "RelativeToolTip": "proje\\Form11.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T16:42:23.82Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form11.cs",
+              "DocumentMoniker": "C:\\Users\\\u0130rem Demircio\u011Flu\\Desktop\\sistem analizi ve tasar\u0131m\u0131 proje teslim\\proje\\proje\\Form11.cs",
+              "RelativeDocumentMoniker": "proje\\Form11.cs",
+              "ToolTip": "C:\\Users\\\u0130rem Demircio\u011Flu\\Desktop\\sistem analizi ve tasar\u0131m\u0131 proje teslim\\proje\\proje\\Form11.cs",
+              "RelativeToolTip": "proje\\Form11.cs",
+              "ViewState": "AgIAAFIAAAAAAAAAAAAIwHYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T16:45:27.719Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form3.cs",
+              "DocumentMoniker": "C:\\Users\\\u0130rem Demircio\u011Flu\\Desktop\\sistem analizi ve tasar\u0131m\u0131 proje teslim\\proje\\proje\\Form3.cs",
+              "RelativeDocumentMoniker": "proje\\Form3.cs",
+              "ToolTip": "C:\\Users\\\u0130rem Demircio\u011Flu\\Desktop\\sistem analizi ve tasar\u0131m\u0131 proje teslim\\proje\\proje\\Form3.cs",
+              "RelativeToolTip": "proje\\Form3.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAiwC4AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T17:16:01.548Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form3.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\\u0130rem Demircio\u011Flu\\Desktop\\sistem analizi ve tasar\u0131m\u0131 proje teslim\\proje\\proje\\Form3.cs",
+              "RelativeDocumentMoniker": "proje\\Form3.cs",
+              "ToolTip": "C:\\Users\\\u0130rem Demircio\u011Flu\\Source\\Repos\\proje\\proje\\Form3.cs [Tasar\u0131m]",
+              "RelativeToolTip": "..\\..\\..\\Source\\Repos\\proje\\proje\\Form3.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T17:12:59.729Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form7.cs",
+              "DocumentMoniker": "C:\\Users\\\u0130rem Demircio\u011Flu\\Desktop\\sistem analizi ve tasar\u0131m\u0131 proje teslim\\proje\\proje\\Form7.cs",
+              "RelativeDocumentMoniker": "proje\\Form7.cs",
+              "ToolTip": "C:\\Users\\\u0130rem Demircio\u011Flu\\Desktop\\sistem analizi ve tasar\u0131m\u0131 proje teslim\\proje\\proje\\Form7.cs",
+              "RelativeToolTip": "proje\\Form7.cs",
+              "ViewState": "AgIAAH0AAAAAAAAAAAAQwJ4AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T12:19:25.277Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Form9.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\\u0130rem Demircio\u011Flu\\Desktop\\sistem analizi ve tasar\u0131m\u0131 proje teslim\\proje\\proje\\Form9.cs",
+              "RelativeDocumentMoniker": "proje\\Form9.cs",
+              "ToolTip": "C:\\Users\\\u0130rem Demircio\u011Flu\\Source\\Repos\\proje\\proje\\Form9.cs [Tasar\u0131m]",
+              "RelativeToolTip": "..\\..\\..\\Source\\Repos\\proje\\proje\\Form9.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T16:59:39.279Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Form10.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\\u0130rem Demircio\u011Flu\\Desktop\\sistem analizi ve tasar\u0131m\u0131 proje teslim\\proje\\proje\\Form10.cs",
+              "RelativeDocumentMoniker": "proje\\Form10.cs",
+              "ToolTip": "C:\\Users\\\u0130rem Demircio\u011Flu\\Source\\Repos\\proje\\proje\\Form10.cs [Tasar\u0131m]",
+              "RelativeToolTip": "..\\..\\..\\Source\\Repos\\proje\\proje\\Form10.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T20:37:39.191Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\\u0130rem Demircio\u011Flu\\Desktop\\sistem analizi ve tasar\u0131m\u0131 proje teslim\\proje\\proje\\Form1.cs",
+              "RelativeDocumentMoniker": "proje\\Form1.cs",
+              "ToolTip": "C:\\Users\\\u0130rem Demircio\u011Flu\\Desktop\\sistem analizi ve tasar\u0131m\u0131 proje teslim\\proje\\proje\\Form1.cs",
+              "RelativeToolTip": "proje\\Form1.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAmwGQAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T15:15:36.061Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form1.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\\u0130rem Demircio\u011Flu\\Desktop\\sistem analizi ve tasar\u0131m\u0131 proje teslim\\proje\\proje\\Form1.cs",
+              "RelativeDocumentMoniker": "proje\\Form1.cs",
+              "ToolTip": "C:\\Users\\\u0130rem Demircio\u011Flu\\Source\\Repos\\proje\\proje\\Form1.cs [Tasar\u0131m]",
+              "RelativeToolTip": "..\\..\\..\\Source\\Repos\\proje\\proje\\Form1.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T14:39:01.715Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "C:\\Users\\\u0130rem Demircio\u011Flu\\Desktop\\sistem analizi ve tasar\u0131m\u0131 proje teslim\\proje\\proje\\Form2.cs",
+              "RelativeDocumentMoniker": "proje\\Form2.cs",
+              "ToolTip": "C:\\Users\\\u0130rem Demircio\u011Flu\\Desktop\\sistem analizi ve tasar\u0131m\u0131 proje teslim\\proje\\proje\\Form2.cs",
+              "RelativeToolTip": "proje\\Form2.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAIwFoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T17:34:19.264Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Form8.cs",
+              "DocumentMoniker": "C:\\Users\\\u0130rem Demircio\u011Flu\\Desktop\\sistem analizi ve tasar\u0131m\u0131 proje teslim\\proje\\proje\\Form8.cs",
+              "RelativeDocumentMoniker": "proje\\Form8.cs",
+              "ToolTip": "C:\\Users\\\u0130rem Demircio\u011Flu\\Desktop\\sistem analizi ve tasar\u0131m\u0131 proje teslim\\proje\\proje\\Form8.cs",
+              "RelativeToolTip": "proje\\Form8.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAwDIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T17:37:05.021Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Form2.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\\u0130rem Demircio\u011Flu\\Desktop\\sistem analizi ve tasar\u0131m\u0131 proje teslim\\proje\\proje\\Form2.cs",
+              "RelativeDocumentMoniker": "proje\\Form2.cs",
+              "ToolTip": "C:\\Users\\\u0130rem Demircio\u011Flu\\Source\\Repos\\proje\\proje\\Form2.cs [Tasar\u0131m]",
+              "RelativeToolTip": "..\\..\\..\\Source\\Repos\\proje\\proje\\Form2.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T16:26:51.686Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Form7.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\\u0130rem Demircio\u011Flu\\Desktop\\sistem analizi ve tasar\u0131m\u0131 proje teslim\\proje\\proje\\Form7.cs",
+              "RelativeDocumentMoniker": "proje\\Form7.cs",
+              "ToolTip": "C:\\Users\\\u0130rem Demircio\u011Flu\\Source\\Repos\\proje\\proje\\Form7.cs [Tasar\u0131m]",
+              "RelativeToolTip": "..\\..\\..\\Source\\Repos\\proje\\proje\\Form7.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T12:18:30.216Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Form21.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\\u0130rem Demircio\u011Flu\\Desktop\\sistem analizi ve tasar\u0131m\u0131 proje teslim\\proje\\proje\\Form21.cs",
+              "RelativeDocumentMoniker": "proje\\Form21.cs",
+              "ToolTip": "C:\\Users\\\u0130rem Demircio\u011Flu\\Source\\Repos\\proje\\proje\\Form21.cs [Tasar\u0131m]",
+              "RelativeToolTip": "..\\..\\..\\Source\\Repos\\proje\\proje\\Form21.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T21:35:45.787Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Form21.cs",
+              "DocumentMoniker": "C:\\Users\\\u0130rem Demircio\u011Flu\\Desktop\\sistem analizi ve tasar\u0131m\u0131 proje teslim\\proje\\proje\\Form21.cs",
+              "RelativeDocumentMoniker": "proje\\Form21.cs",
+              "ToolTip": "C:\\Users\\\u0130rem Demircio\u011Flu\\Desktop\\sistem analizi ve tasar\u0131m\u0131 proje teslim\\proje\\proje\\Form21.cs",
+              "RelativeToolTip": "proje\\Form21.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T21:41:45.191Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Form8.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\\u0130rem Demircio\u011Flu\\Desktop\\sistem analizi ve tasar\u0131m\u0131 proje teslim\\proje\\proje\\Form8.cs",
+              "RelativeDocumentMoniker": "proje\\Form8.cs",
+              "ToolTip": "C:\\Users\\\u0130rem Demircio\u011Flu\\Source\\Repos\\proje\\proje\\Form8.cs [Tasar\u0131m]",
+              "RelativeToolTip": "..\\..\\..\\Source\\Repos\\proje\\proje\\Form8.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T17:35:31.016Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Form15.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\\u0130rem Demircio\u011Flu\\Desktop\\sistem analizi ve tasar\u0131m\u0131 proje teslim\\proje\\proje\\Form15.cs",
+              "RelativeDocumentMoniker": "proje\\Form15.cs",
+              "ToolTip": "C:\\Users\\\u0130rem Demircio\u011Flu\\Source\\Repos\\proje\\proje\\Form15.cs [Tasar\u0131m]",
+              "RelativeToolTip": "..\\..\\..\\Source\\Repos\\proje\\proje\\Form15.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T15:50:42.751Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Form17.cs",
+              "DocumentMoniker": "C:\\Users\\\u0130rem Demircio\u011Flu\\Desktop\\sistem analizi ve tasar\u0131m\u0131 proje teslim\\proje\\proje\\Form17.cs",
+              "RelativeDocumentMoniker": "proje\\Form17.cs",
+              "ToolTip": "C:\\Users\\\u0130rem Demircio\u011Flu\\Desktop\\sistem analizi ve tasar\u0131m\u0131 proje teslim\\proje\\proje\\Form17.cs",
+              "RelativeToolTip": "proje\\Form17.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T23:43:31.239Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Form19.cs",
+              "DocumentMoniker": "C:\\Users\\\u0130rem Demircio\u011Flu\\Desktop\\sistem analizi ve tasar\u0131m\u0131 proje teslim\\proje\\proje\\Form19.cs",
+              "RelativeDocumentMoniker": "proje\\Form19.cs",
+              "ToolTip": "C:\\Users\\\u0130rem Demircio\u011Flu\\Desktop\\sistem analizi ve tasar\u0131m\u0131 proje teslim\\proje\\proje\\Form19.cs",
+              "RelativeToolTip": "proje\\Form19.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAIwDcAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T14:08:00.408Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Form17.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\\u0130rem Demircio\u011Flu\\Desktop\\sistem analizi ve tasar\u0131m\u0131 proje teslim\\proje\\proje\\Form17.cs",
+              "RelativeDocumentMoniker": "proje\\Form17.cs",
+              "ToolTip": "C:\\Users\\\u0130rem Demircio\u011Flu\\Source\\Repos\\proje\\proje\\Form17.cs [Tasar\u0131m]",
+              "RelativeToolTip": "..\\..\\..\\Source\\Repos\\proje\\proje\\Form17.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T23:43:11.972Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Form19.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\\u0130rem Demircio\u011Flu\\Desktop\\sistem analizi ve tasar\u0131m\u0131 proje teslim\\proje\\proje\\Form19.cs",
+              "RelativeDocumentMoniker": "proje\\Form19.cs",
+              "ToolTip": "C:\\Users\\\u0130rem Demircio\u011Flu\\Source\\Repos\\proje\\proje\\Form19.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\Source\\Repos\\proje\\proje\\Form19.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T14:07:08.026Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Form20.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\\u0130rem Demircio\u011Flu\\Desktop\\sistem analizi ve tasar\u0131m\u0131 proje teslim\\proje\\proje\\Form20.cs",
+              "RelativeDocumentMoniker": "proje\\Form20.cs",
+              "ToolTip": "C:\\Users\\\u0130rem Demircio\u011Flu\\Source\\Repos\\proje\\proje\\Form20.cs [Tasar\u0131m]",
+              "RelativeToolTip": "..\\..\\..\\Source\\Repos\\proje\\proje\\Form20.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T23:12:35.074Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Form10.cs",
+              "DocumentMoniker": "C:\\Users\\\u0130rem Demircio\u011Flu\\Desktop\\sistem analizi ve tasar\u0131m\u0131 proje teslim\\proje\\proje\\Form10.cs",
+              "RelativeDocumentMoniker": "proje\\Form10.cs",
+              "ToolTip": "C:\\Users\\\u0130rem Demircio\u011Flu\\Desktop\\sistem analizi ve tasar\u0131m\u0131 proje teslim\\proje\\proje\\Form10.cs",
+              "RelativeToolTip": "proje\\Form10.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAACWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T21:03:41.174Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Form5.cs",
+              "DocumentMoniker": "C:\\Users\\\u0130rem Demircio\u011Flu\\Desktop\\sistem analizi ve tasar\u0131m\u0131 proje teslim\\proje\\proje\\Form5.cs",
+              "RelativeDocumentMoniker": "proje\\Form5.cs",
+              "ToolTip": "C:\\Users\\\u0130rem Demircio\u011Flu\\Desktop\\sistem analizi ve tasar\u0131m\u0131 proje teslim\\proje\\proje\\Form5.cs",
+              "RelativeToolTip": "proje\\Form5.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T16:37:50.245Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Form4.cs",
+              "DocumentMoniker": "C:\\Users\\\u0130rem Demircio\u011Flu\\Desktop\\sistem analizi ve tasar\u0131m\u0131 proje teslim\\proje\\proje\\Form4.cs",
+              "RelativeDocumentMoniker": "proje\\Form4.cs",
+              "ToolTip": "C:\\Users\\\u0130rem Demircio\u011Flu\\Desktop\\sistem analizi ve tasar\u0131m\u0131 proje teslim\\proje\\proje\\Form4.cs",
+              "RelativeToolTip": "proje\\Form4.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T14:43:11.095Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Form14.cs",
+              "DocumentMoniker": "C:\\Users\\\u0130rem Demircio\u011Flu\\Desktop\\sistem analizi ve tasar\u0131m\u0131 proje teslim\\proje\\proje\\Form14.cs",
+              "RelativeDocumentMoniker": "proje\\Form14.cs",
+              "ToolTip": "C:\\Users\\\u0130rem Demircio\u011Flu\\Desktop\\sistem analizi ve tasar\u0131m\u0131 proje teslim\\proje\\proje\\Form14.cs",
+              "RelativeToolTip": "proje\\Form14.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAlwFEAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T21:10:04.512Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Form13.cs",
+              "DocumentMoniker": "C:\\Users\\\u0130rem Demircio\u011Flu\\Desktop\\sistem analizi ve tasar\u0131m\u0131 proje teslim\\proje\\proje\\Form13.cs",
+              "RelativeDocumentMoniker": "proje\\Form13.cs",
+              "ToolTip": "C:\\Users\\\u0130rem Demircio\u011Flu\\Desktop\\sistem analizi ve tasar\u0131m\u0131 proje teslim\\proje\\proje\\Form13.cs",
+              "RelativeToolTip": "proje\\Form13.cs",
+              "ViewState": "AgIAAH8AAAAAAAAAAAAswJIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T22:08:38.346Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Form12.cs",
+              "DocumentMoniker": "C:\\Users\\\u0130rem Demircio\u011Flu\\Desktop\\sistem analizi ve tasar\u0131m\u0131 proje teslim\\proje\\proje\\Form12.cs",
+              "RelativeDocumentMoniker": "proje\\Form12.cs",
+              "ToolTip": "C:\\Users\\\u0130rem Demircio\u011Flu\\Desktop\\sistem analizi ve tasar\u0131m\u0131 proje teslim\\proje\\proje\\Form12.cs",
+              "RelativeToolTip": "proje\\Form12.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T17:48:45.853Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Form16.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\\u0130rem Demircio\u011Flu\\Desktop\\sistem analizi ve tasar\u0131m\u0131 proje teslim\\proje\\proje\\Form16.cs",
+              "RelativeDocumentMoniker": "proje\\Form16.cs",
+              "ToolTip": "C:\\Users\\\u0130rem Demircio\u011Flu\\Source\\Repos\\proje\\proje\\Form16.cs [Tasar\u0131m]",
+              "RelativeToolTip": "..\\..\\..\\Source\\Repos\\proje\\proje\\Form16.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T14:40:30.2Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Form14.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\\u0130rem Demircio\u011Flu\\Desktop\\sistem analizi ve tasar\u0131m\u0131 proje teslim\\proje\\proje\\Form14.cs",
+              "RelativeDocumentMoniker": "proje\\Form14.cs",
+              "ToolTip": "C:\\Users\\\u0130rem Demircio\u011Flu\\Source\\Repos\\proje\\proje\\Form14.cs [Tasar\u0131m]",
+              "RelativeToolTip": "..\\..\\..\\Source\\Repos\\proje\\proje\\Form14.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T21:01:08.561Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Form13.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\\u0130rem Demircio\u011Flu\\Desktop\\sistem analizi ve tasar\u0131m\u0131 proje teslim\\proje\\proje\\Form13.cs",
+              "RelativeDocumentMoniker": "proje\\Form13.cs",
+              "ToolTip": "C:\\Users\\\u0130rem Demircio\u011Flu\\Source\\Repos\\proje\\proje\\Form13.cs [Tasar\u0131m]",
+              "RelativeToolTip": "..\\..\\..\\Source\\Repos\\proje\\proje\\Form13.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T21:09:34.605Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Form5.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\\u0130rem Demircio\u011Flu\\Desktop\\sistem analizi ve tasar\u0131m\u0131 proje teslim\\proje\\proje\\Form5.cs",
+              "RelativeDocumentMoniker": "proje\\Form5.cs",
+              "ToolTip": "C:\\Users\\\u0130rem Demircio\u011Flu\\Source\\Repos\\proje\\proje\\Form5.cs [Tasar\u0131m]",
+              "RelativeToolTip": "..\\..\\..\\Source\\Repos\\proje\\proje\\Form5.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T16:34:32.646Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Form4.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\\u0130rem Demircio\u011Flu\\Desktop\\sistem analizi ve tasar\u0131m\u0131 proje teslim\\proje\\proje\\Form4.cs",
+              "RelativeDocumentMoniker": "proje\\Form4.cs",
+              "ToolTip": "C:\\Users\\\u0130rem Demircio\u011Flu\\Source\\Repos\\proje\\proje\\Form4.cs [Tasar\u0131m]",
+              "RelativeToolTip": "..\\..\\..\\Source\\Repos\\proje\\proje\\Form4.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T14:42:42.896Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Form12.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\\u0130rem Demircio\u011Flu\\Desktop\\sistem analizi ve tasar\u0131m\u0131 proje teslim\\proje\\proje\\Form12.cs",
+              "RelativeDocumentMoniker": "proje\\Form12.cs",
+              "ToolTip": "C:\\Users\\\u0130rem Demircio\u011Flu\\Source\\Repos\\proje\\proje\\Form12.cs [Tasar\u0131m]",
+              "RelativeToolTip": "..\\..\\..\\Source\\Repos\\proje\\proje\\Form12.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T17:44:56.717Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
